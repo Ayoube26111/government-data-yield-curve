@@ -11,12 +11,6 @@ and the relationship between the 10Y–2Y spread and the S&P 500 index.
 - Double-axis plot: 10Y–2Y spread vs S&P 500
 - Analysis of economic conditions and Federal Reserve responses
 
-## Instructions
-
-1. Open `yield_curve_analysis.ipynb` in Google Colab.
-2. Replace `YOUR_FRED_API_KEY` with your personal FRED API key.
-3. Run all cells to reproduce the plots and analysis.
-
 ## Key Takeaways
 
 - Yield curve slope reflects expectations of growth and monetary policy.
